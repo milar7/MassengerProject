@@ -32,7 +32,7 @@ class Application: Application(),KodeinAware {
         bind() from  provider {ProfileViewModelFactory(instance())  }
         bind() from  provider {QuotesViewModelFactory(instance())  }
 
-
+//test
 
     }
 }
